@@ -34,7 +34,7 @@
 
 1. Clone the repository:
     ```
-    git clone [https://github.com/SharvaniLekkala/CustomerChurnAnalysis.git]
+    git clone https://github.com/SharvaniLekkala/CustomerChurnAnalysis.git
     ```
 
 2. Explore the data and notebooks:
@@ -67,4 +67,5 @@ Sharvani Lekkala
 ---
 
 *For questions or collaborations, please open an issue or contact via GitHub.*
+
 
