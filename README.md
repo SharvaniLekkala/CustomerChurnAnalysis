@@ -59,13 +59,42 @@
 - Python (Jupyter, pandas, numpy, matplotlib, seaborn)
 - Power BI Desktop (for dashboard visualization)
 
+##Insights
+
+1.Overall Churn
+-26.6% of customers have churned (1,869 out of 7,032).
+-This means roughly one in four customers leave, highlighting the importance of strong retention strategies.
+
+2.Churn by Payment Method
+Customers paying via electronic check show the highest churn rate.
+Customers using automatic payments (bank transfer or credit card) are less likely to churn.
+Encouraging customers to switch to auto-pay could improve retention.
+
+3.Churn by Contract Type
+Month-to-month contracts have the highest churn.
+One-year and two-year contracts show significantly lower churn.
+Promoting long-term contracts with incentives or discounts could help reduce churn.
+
+4.Impact of Tenure and Monthly Charges
+Customers with lower tenure are more likely to churn.
+Churn decreases steadily as tenure increases, indicating that customers become more loyal over time.
+Higher monthly charges are associated with higher churn, especially for customers with short tenure.
+Improving onboarding experience and clearly communicating value can reduce early churn.
+
+5.Distribution of Monthly Charges
+Customers with moderate-to-high monthly charges have a higher churn percentage.
+Offering flexible pricing plans or value-added services may help retain price-sensitive customers.
+
+6.Recommendations
+Promote long-term contracts through loyalty rewards or discounts.
+Encourage auto-pay enrollment with small incentives.
+Focus on early-stage customer engagement to reduce churn within the first few months.
+Revisit pricing strategy for customers with higher charges.
+Consider building a churn prediction model to proactively identify and engage at-risk customers.
 
 ## Author
 
 Sharvani Lekkala
 
----
-
-*For questions or collaborations, please open an issue or contact via GitHub.*
 
 
